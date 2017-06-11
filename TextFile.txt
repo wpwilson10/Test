@@ -1,0 +1,19 @@
+1.
+
+	1. Buy your supplies. Components I selected for this project are:
+		a. Pi 3
+		b. 16 GB micro SD card
+		c. Micro USB to AC adapter
+		d. 6' ethernet cable
+			- length not important
+		e. USB memory card reader
+			- not needed after initial setup
+	2. I used Amazon Prime to order parts a-d at a total price of $58.23. 
+
+2. 
+
+	1. Download and run Etcher.
+	2. Plug in your memory card into your computer.
+	3. You memory card will appear as a generic storage device. Select it and then select the Flash button.
+	4. This will take a few minutes. After the drive is flashed, Windows will ask to format the drive. Do not accept. We want to keep the Pi's OS installed.
+
